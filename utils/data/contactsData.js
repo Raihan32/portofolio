@@ -4,5 +4,4 @@ export const contactsData = {
     address: 'Semarang, Central Java, Indonesia ',
     github: 'https://github.com/Raihan32',
     linkedIn: 'https://www.linkedin.com/in/raihanfathurrahman/',
-    devUsername: "said7388"
 }
