@@ -17,7 +17,7 @@ export const experiences = [
     title: 'Web Developer SRCOM',
     company: "PT United Tractors Tbk",
     duration: "(Feb 2023 - June 2023)",
-    des: "As a Web Developer, my responsibility involves designing and developing warehouse websites utilizing advanced technologies like Next.js and Express.js. I excel in organizing and overseeing all facets of web development, from conceptualization to execution. Leveraging my proficiency in Next.js, I craft responsive and dynamic user interfaces to deliver an exceptional user experience. Additionally, I utilize Express.js to establish a robust server-side logic foundation, ensuring optimal performance for the warehouse website."
+    des: "As a Web Developer at SRCOM in PT United Tractors, my responsibility involves designing and developing warehouse websites utilizing advanced technologies like Next.js and Express.js. I excel in organizing and overseeing all facets of web development, from conceptualization to execution. Leveraging my proficiency in Next.js, I craft responsive and dynamic user interfaces to deliver an exceptional user experience. Additionally, I utilize Express.js to establish a robust server-side logic foundation, ensuring optimal performance for the warehouse website."
   },
   {
     id: 3,

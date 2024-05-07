@@ -77,8 +77,6 @@ function HeroSection() {
                 <span className="text-gray-400">{`['`}</span>
                 <span className="text-green-300">React</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-green-300">NextJS</span>
-                <span className="text-gray-400">{"', '"}</span>
                 <span className="text-green-300">laravel</span>
                 <span className="text-gray-400">{"', '"}</span>
                 <span className="text-green-300">ExpressJS</span>
