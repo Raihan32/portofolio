@@ -1,4 +1,4 @@
-import myskill from '/public/image/myskill.png';
+import myskill from '/public/image/my.png';
 import udinus from '/public/image/udinus.png';
 import il from '/public/image/il.png';
 import smk from '/public/image/smk8.png';
