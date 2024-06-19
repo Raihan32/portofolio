@@ -1,11 +1,12 @@
 
 import UT from '/public/image/UT.png';
 import ikitas from '/public/image/ikitas.png';
+import sps from '/public/image/SPS.png';
 
 export const experiences = [
   {
     id: 1,
-    logo: UT,
+    logo: sps,
     title: 'Cyber Security Analyst - SOC L1',
     company: "PT. Sembilan Pilar Semesta",
     duration: "(May 2024)",
